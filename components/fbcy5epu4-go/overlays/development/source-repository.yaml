@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fbcy5epu4-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/fbcy5epu4-go
